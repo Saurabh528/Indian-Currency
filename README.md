@@ -1,6 +1,11 @@
 # Indian Currency Detection using opencv and giving output in audio
 
 
+# Result Video
+https://drive.google.com/drive/folders/1nUMHeoH_COeSLn-BK1BcFa3mSk5O5c-e
+
+
+
 This code is based on opencv orb feature detection. SURF and SIFT features can also be used to extract the notes features. 
 You can change the value of number of features detected by changing n_features in detect.py. Further brute force matching is used for matching the templates with existing notes. 
 
